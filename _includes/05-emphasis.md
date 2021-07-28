@@ -6,4 +6,4 @@ __Oh c'mon Dwight!__
 
 
 
-_**Everybody** in the conference room **Except** Toby <P>🤮</P>_
+_**Everybody** in the conference room <P>**Except** Toby</P> <P>🤮</P>_
