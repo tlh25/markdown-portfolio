@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Make a list
+2. delete said list
+3. ????
+  - Profit
